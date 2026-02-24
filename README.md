@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bug reports since 2006<br>📚 I'm currently learning AI Testing and Go.<br>🎯 Goals: Make AI and testing meet and become a common tool in software quality assurance.<br>🎲 Fun fact: In the Finnish language, there are more synonyms for "being drunk" than for snow.</p>
+<p align="left">✨ Creating bug reports since 2006<br>📚 I'm currently learning AI Testing and Go.<br>🎯 Goals: Make AI and testing meet and become a common tool in software quality assurance.<br></p>
 
 ###
 
